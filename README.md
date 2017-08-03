@@ -1,2 +1,2 @@
-# 360Viewer
-Demo 360 Viewer
+# 360 Viewer
+A 360 Viewer demo
